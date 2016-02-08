@@ -13,3 +13,5 @@ n = int(input("\nIngrese el numero de iteraciones: "))
 if(n>0):  
  a=fibonacci(n)  
  print ("\nResultado: "+a)
+else:
+ print ("\nResultado: 0")
